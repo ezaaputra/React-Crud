@@ -1,4 +1,4 @@
-# React Node Express MySQL - CRUD Website
+# React - CRUD Website - Front End
 
 This project is a simple full-stack React + Node.js + Express + MySQL with a CRUD Application. The back-end server uses Node.js + Express for REST APIs, front-end side is a React.js client with React Router, Axios & Bootstrap.
 
